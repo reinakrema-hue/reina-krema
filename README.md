@@ -1,5 +1,3 @@
-REINA KREMA – Site web d'un salon de soins capillaires
-
 Présentation du projet
 
 REINA KREMA est un projet de développement web réalisé dans le cadre de ma formation professionnelle en Développement Web – Niveau Avancé, proposée par le programme D-CLIC de l'Organisation internationale de la Francophonie (OIF).
