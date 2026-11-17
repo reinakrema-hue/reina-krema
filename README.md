@@ -49,6 +49,6 @@ Contexte de réalisation
 Projet réalisé dans le cadre de la formation professionnelle : Développement Web - Niveau Avancé, programme D-CLIC de l'OIF, Mai à juillet 2026.
 
 Projet : Reina Krema  
-**Domaine :** Soins capillaires et beauté  
-**Développement :** Front-End et Back-End  
-**Auteure :** Tamara Yambode
+Domaine :Soins capillaires et beauté  
+Développement : Front-End et Back-End  
+Auteure : Tamara Yambode
