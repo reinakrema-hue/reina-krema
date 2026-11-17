@@ -2,11 +2,12 @@ REINA KREMA – Site web d'un salon de soins capillaires
 
 Présentation du projet
 
-REINA KREMA est un projet de développement web réalisé dans le cadre de ma formation avancée en Développement Web avec le programme D-CLIC de l'Organisation internationale de la Francophonie (OIF).
+REINA KREMA est un projet de développement web réalisé dans le cadre de ma formation professionnelle en Développement Web – Niveau Avancé, proposée par le programme D-CLIC de l'Organisation internationale de la Francophonie (OIF).
 
-L'objectif était de concevoir un site web dédié à un salon de soins capillaires, en mettant en pratique les compétences acquises en développement Front-End et Back-End.
+Ce projet consiste à concevoir un site web pour un salon spécialisé dans les soins capillaires et la beauté. Il m'a permis de mettre en pratique mes connaissances en développement Front-End et Back-End, ainsi que l'organisation d'une application web.
 
-Technologies utilisées
+Technologies et outils
+
 Front-End
 - React
 - JavaScript (JSX)
@@ -23,32 +24,31 @@ Outils et bibliothèques
 - Git et GitHub
 
 Base de données
-- Fichier SQL présent dans le projet.
+- Fichier SQL fourni dans le projet.
 
-Organisation du projet
+Architecture du projet
 
-Le projet est structuré autour de plusieurs composants :
+Le projet s'appuie notamment sur l'organisation suivante :
 
-- resources/js/components : composants de l'interface.
+- resources/js/components : composants de l'interface utilisateur.
 - resources/js/pages : organisation des pages.
 - resources/js/routes : gestion de la navigation.
 - resources/views : vues de l'application Laravel.
-- app : logique de l'application côté serveur.
-- public : ressources publiques du site.
+- app : logique applicative côté serveur.
+- public : ressources accessibles publiquement.
 
 Compétences mobilisées
 
-- Développement d'interfaces avec React.
-- Organisation d'une application en composants réutilisables.
-- Structuration d'une application Back-End avec Laravel.
+- Développement d'interfaces avec React et JavaScript.
+- Organisation d'une interface à partir de composants.
+- Structuration d'une application Back-End avec Laravel et PHP.
 - Intégration des ressources Front-End et Back-End.
-- Organisation des fichiers et gestion du code avec GitHub.
+- Utilisation de Git et GitHub pour la gestion du code source.
 
 Contexte de réalisation
 
-Projet réalisé dans le cadre de la formation professionnelle : Développement Web - Niveau Avancé, programme D-CLIC de l'OIF, Mai à juillet 2026.
-
-Projet : Reina Krema  
-Domaine :Soins capillaires et beauté  
-Développement : Front-End et Back-End  
-Auteure : Tamara Yambode
+- Formation : Développement Web – Niveau Avancé.
+- Programme : D-CLIC – Organisation internationale de la Francophonie (OIF).
+- Période fin :  juillet 2026.
+- Domaine : Soins capillaires et beauté.
+- Auteure : Tamara Yambode.
